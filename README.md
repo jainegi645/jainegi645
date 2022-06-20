@@ -1,6 +1,6 @@
 ### Hello World 👋
-I am a FullStack Software Engineer from India
-- 🔭 Working on multiple projects using MERN Stack.
+I am a FrontEnd Software Engineer from India
+- 🔭 Working on multiple projects using FrontEnd Stack.
 - 🌱 Learning and creating things along the way.
 <br>
 
