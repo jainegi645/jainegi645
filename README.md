@@ -1,6 +1,6 @@
 ### Hello World 👋
-I am a FrontEnd Software Engineer from India
-- 🔭 Working on multiple projects using FrontEnd Stack.
+I am a Front-end Developer from India
+- 🔭 Working on multiple projects using Front-end Stack.
 - 🌱 Learning and creating things along the way.
 <br>
 
